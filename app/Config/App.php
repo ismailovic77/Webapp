@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'https://deepechowebapp.azurewebsites.net';
+	public $baseURL = 'https://deepechowebapp0ci0cd.azurewebsites.net';
 
 	/*
 	|--------------------------------------------------------------------------
