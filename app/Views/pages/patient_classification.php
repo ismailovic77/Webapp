@@ -14,7 +14,7 @@
 
 				<div class="page-title-right">
 					<ol class="breadcrumb m-0">
-						<li class="breadcrumb-item"><a href="/">Home</a></li>
+						<li class="breadcrumb-item"><a href="/">TEST</a></li>
 						<li class="breadcrumb-item"><a href="/patients/<?= $patient['id'] ?>">Patient report</a></li>
 					</ol>
 				</div>
