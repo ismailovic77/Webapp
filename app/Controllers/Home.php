@@ -221,7 +221,7 @@ class Home extends BaseController
         }
         $data = $client::curlrequest()->request(
             "POST",
-            $this->ApiUrl . "predict/classification",
+            $this->ApiUrl . "/",
             [
                 'form_params' => [
                     'paths' => json_encode($paths),
