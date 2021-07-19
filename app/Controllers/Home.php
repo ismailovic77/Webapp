@@ -21,7 +21,7 @@ class Home extends BaseController
         $this->db           = \Config\Database::connect();
         $this->patientModel = new PatientModel;
         $this->imageModel   = new ImageModel;
-        $this->ApiUrl   = "http://51.132.18.178:5000/";
+        $this->ApiUrl   = "http://52.158.42.242:3000/";
     }
 
     public function testUpload_server()
